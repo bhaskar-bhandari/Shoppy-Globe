@@ -19,3 +19,18 @@ ShoppyGlobe is a basic e-commerce application built using React, Redux, and Reac
 - **React Router**: For client-side routing.
 - **React.lazy & Suspens**e: For lazy loading and code splitting.
 - **CSS**: Custom styling for a modern and responsive design.
+
+
+## 🏠 Home Page
+
+The Home page displays products in a grid layout with an image, name, price, and “Add to Cart” button.
+![Screenshot 2025-03-14 192451](https://github.com/user-attachments/assets/e9dd64e8-b7ec-490c-8327-d68c7e448427)
+
+
+---
+
+## 🛒 Cart Page
+
+The Cart page shows items added by the user with pricing and item details.
+
+![Screenshot 2025-03-14 191632](https://github.com/user-attachments/assets/1b2233be-d102-4c7c-a837-b8e0c826ee1d)
